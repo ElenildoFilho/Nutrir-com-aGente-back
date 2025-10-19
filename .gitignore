@@ -39,3 +39,5 @@ jest-test-results.json
 # Cache
 .cache/
 .tmp/
+
+/src/generated/prisma
